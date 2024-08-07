@@ -4,7 +4,7 @@
   "description": "Understanding TypeScript Course Setup",
   "main": "app.js",
   "scripts": {
-    "watch": "tsc -w",
+    "watch": "tsc --watch",
     "start": "lite-server",
     "build": "tsc"
   },
